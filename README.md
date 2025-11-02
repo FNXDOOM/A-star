@@ -2,7 +2,7 @@
 
 This project provides an interactive web-based visualization of the A* pathfinding algorithm implemented using HTML, CSS, and vanilla JavaScript. Users can create a grid environment with obstacles, define start and end points, and watch the A* algorithm find the shortest path between them.
 
-*(Optional: Add a screenshot or GIF demonstrating the visualization here)*
+Check out my [Visusal Implementation](https://fnxdoom.github.io/A-star/)
 <!-- ![A* Visualization Screenshot](path/to/your/screenshot.png) -->
 
 ## Features
